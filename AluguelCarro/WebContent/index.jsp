@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>  Web Car Agency</title>
+<title>Web Car Agency</title>
 <meta name="description"
 	content="Scarica gratis il nostro Template HTML/CSS GARAGE. Se avete bisogno di un design per il vostro sito web GARAGE può fare per voi. Web Domus Italia">
 <meta name="author" content="Web Domus Italia">
@@ -47,12 +47,12 @@
 							class="icon-bar"></span>
 					</button>
 					<a class="navbar-brand logo" href="#"><img
-						src="image/logo-frentes.png" alt="logo" width="120" height="50"></a>
+						src="image/logo1.png" alt="logo"></a>
 				</div>
 			</div>
 			<div class="collapse navbar-collapse" id="upmenu">
 				<ul class="nav navbar-nav" id="navbarontop">
-					<li class="active"><a href="#">HOME</a></li>
+					<li class="active"><a href="index.jsp">PAGINA INICIAL</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						data-toggle="dropdown" role="button" aria-haspopup="true"
 						aria-expanded="false">CATEGORIAS <span class="caret"></span></a>
@@ -69,9 +69,9 @@
 							<li><a href="#">2</a></li>
 							<li><a href="3">3</a></li>
 						</ul></li>
-					<li><a href="contact.html">CONTACT</a></li>
+					<li><a href="contact.html">CONTATO</a></li>
 					<button>
-						<span class="postnewcar">POST NEW CAR</span>
+						<span class="postnewcar">NOVO CARRO</span>
 					</button>
 				</ul>
 			</div>
@@ -86,19 +86,20 @@
 					<div class="carousel-caption">
 						<h2>Porsche 356</h2>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur ,<br> sed do eiusmod
-							tempor incididunt ut labore
+							O 356 era para ser em forma para manter o bem estrada e permitir
+							uma sensação de condução segura em velocidades que já eram
+							relativamente alta<br> O primeiro Porsche era um carro com
+							motor central, cujo motor uma unidade VW modificado foi montado à
+							frente do eixo traseiro
 						</p>
 					</div>
 				</div>
 				<div class="item">
-					<img src="image/porche.jpg" alt="porche">
+					<img src="image/OPALA.jpg" alt="porche">
 					<div class="carousel-caption">
-						<h2>Porche</h2>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur ,<br> sed do eiusmod
-							tempor incididunt ut labore
-						</p>
+						<h2>Opala 6cc</h2>
+						<p>Elegante, confortável e refinado, ele foi um dos últimos
+							cupês grandes e resistiu o quanto pôde às investidas dos rivais</p>
 					</div>
 				</div>
 				<div class="item">
@@ -117,7 +118,7 @@
 					<button type="button" class="navbar-toggle collapsed textcostume"
 						data-toggle="collapse" data-target="#navbarmidle"
 						aria-expanded="false">
-						<h1>SEARCH TEXT</h1>
+						<h1>TEXTO DE PESQUISA</h1>
 						<span class="sr-only">Toggle navigation</span> <span
 							class="icon-bar"></span> <span class="icon-bar"></span> <span
 							class="icon-bar"></span>
@@ -187,8 +188,8 @@
 	<div class="allcontain">
 		<div class="feturedsection">
 			<h1 class="text-center">
-				<span class="bdots">&bullet;</span>F E A T U R E S<span
-					class="carstxt">C A R S</span>&bullet;
+				<span class="bdots">&bullet;</span> CARACTERÍSTICAS<span
+					class="carstxt">DOS CARROS</span>&bullet;
 			</h1>
 		</div>
 		<div class="feturedimage">
@@ -259,20 +260,20 @@
 		</div>
 		<!-- ________________________LATEST CARS SECTION _______________________-->
 		<div class="latestcars">
-			<h1 class="text-center">&bullet; LATEST CARS &bullet;</h1>
+			<h1 class="text-center">&bullet; ÚLTIMOS CARROS &bullet;</h1>
 			<ul class="nav nav-tabs navbar-left latest-navleft">
-				<li role="presentation" class="li-sortby"><span class="sortby">SORT
-						BY: </span></li>
+				<li role="presentation" class="li-sortby"><span class="sortby">ORDENAR
+						POR: </span></li>
 				<li data-filter=".RECENT" role="presentation"><a
-					href="#mostrecent" class="prcBtnR">MOST RECENT </a></li>
+					href="#mostrecent" class="prcBtnR">MAIS RECENTE </a></li>
 				<li data-filter=".POPULAR" role="presentation"><a
-					href="#mostpopular" class="prcBtnR">MOST POPULAR </a></li>
-				<li role="presentation"><a href="#" class="alphSort">ALPHABETICAL
+					href="#mostpopular" class="prcBtnR">MAIS POPULAR </a></li>
+				<li role="presentation"><a href="#" class="alphSort">ALFABÉTICA
 				</a></li>
 				<li data-filter=".HPRICE" role="presentation"><a href="#"
-					class="prcBtnH">HIGHEST PRICE </a></li>
+					class="prcBtnH">PREÇO MAIS ALTO </a></li>
 				<li data-filter=".LPRICE" role="presentation"><a href="#"
-					class="prcBtnL">LOWEST PRICE </a></li>
+					class="prcBtnL">PREÇO MAIS BAIXO </a></li>
 				<li id="hideonmobile">
 			</ul>
 		</div>
@@ -596,12 +597,13 @@
 					class="dotlogo">&bullet;;</span>
 			</div>
 			<ul class="nav nav-tabs bottomlinks">
-				<li role="presentation"><a href="#/" role="button">ABOUT
-						US</a></li>
-				<li role="presentation"><a href="#/">CATEGORIES</a></li>
-				<li role="presentation"><a href="#/">PREORDERS</a></li>
-				<li role="presentation"><a href="#/">CONTACT US</a></li>
-				<li role="presentation"><a href="#/">RECEIVE OUR NEWSLETTER</a></li>
+				<li role="presentation"><a href="#/" role="button"> SOBRE
+						NÓS</a></li>
+				<li role="presentation"><a href="#/">CATEGORIAS</a></li>
+				<li role="presentation"><a href="#/">PEDIDOS PRÉVIOS </a></li>
+				<li role="presentation"><a href="#/">CONTATE-NOS </a></li>
+				<li role="presentation"><a href="#/">RECEBA NOSSO BOLETIM
+						DE NOTÍCIAS</a></li>
 			</ul>
 			<p>
 				"Lorem ipsum dolor sit amet, consectetur, sed do eiusmod tempor
